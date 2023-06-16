@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"arrow_install_all_headers"
+		],
+		"files" : 
+		[
+			"cmake_modules/BuildUtils.cmake",
+			"src/arrow/ipc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 76,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 815,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/arrow/ipc",
+			"paths" : 
+			[
+				"src/arrow/ipc/api.h",
+				"src/arrow/ipc/dictionary.h",
+				"src/arrow/ipc/feather.h",
+				"src/arrow/ipc/json_integration.h",
+				"src/arrow/ipc/json_simple.h",
+				"src/arrow/ipc/message.h",
+				"src/arrow/ipc/options.h",
+				"src/arrow/ipc/reader.h",
+				"src/arrow/ipc/test_common.h",
+				"src/arrow/ipc/util.h",
+				"src/arrow/ipc/writer.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/arrow/ipc",
+		"source" : "src/arrow/ipc"
+	}
+}

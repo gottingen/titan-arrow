@@ -1,0 +1,35 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"src/arrow/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "arrow-integration::@35c394f4173f4822a3b1",
+	"name" : "arrow-integration",
+	"paths" : 
+	{
+		"build" : "src/arrow",
+		"source" : "src/arrow"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

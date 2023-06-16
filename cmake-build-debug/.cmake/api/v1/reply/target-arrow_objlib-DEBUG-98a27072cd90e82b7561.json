@@ -1,0 +1,1450 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./builder.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/builder_adaptive.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/builder_base.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/builder_binary.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/builder_decimal.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/builder_dict.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/builder_nested.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/builder_primitive.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/builder_union.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/concatenate.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/dict_internal.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/diff.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./array/validate.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./buffer.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./compare.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./device.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./extension_type.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./memory_pool.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./pretty_print.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./record_batch.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./result.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./scalar.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./sparse_tensor.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./status.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./table.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./table_builder.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./tensor.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./tensor/coo_converter.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./tensor/csc_converter.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./tensor/csf_converter.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./tensor/csr_converter.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./type.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./visitor.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./c/bridge.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./io/buffered.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./io/caching.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./io/compressed.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./io/file.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./io/hdfs.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./io/hdfs_internal.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./io/interfaces.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./io/memory.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./io/slow.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./testing/util.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/basic_decimal.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/bit_util.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/compression.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/cpu_info.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/decimal.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/delimiting.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/formatting.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/future.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/int_util.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/io_util.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/iterator.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/logging.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/key_value_metadata.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/memory.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/parsing.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/string.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/string_builder.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/task_group.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/thread_pool.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/time.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/trie.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/uri.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./util/utf8.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/base64.cpp.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/datetime/tz.cpp.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/double-conversion/bignum.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/double-conversion/double-conversion.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/double-conversion/bignum-dtoa.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/double-conversion/fast-dtoa.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/double-conversion/cached-powers.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/double-conversion/fixed-dtoa.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/double-conversion/diy-fp.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/double-conversion/strtod.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./ipc/dictionary.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./ipc/feather.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./ipc/message.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./ipc/metadata_internal.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./ipc/options.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./ipc/reader.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./ipc/writer.cc.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriCommon.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriCompare.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriEscape.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriFile.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriIp4Base.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriIp4.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriMemory.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriNormalizeBase.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriNormalize.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriParseBase.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriParse.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriQuery.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriRecompose.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriResolve.c.o"
+		},
+		{
+			"path" : "src/arrow/CMakeFiles/arrow_objlib.dir/./vendored/uriparser/UriShorten.c.o"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_arrow_lib",
+			"add_dependencies",
+			"target_compile_definitions",
+			"add_definitions",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"cmake_modules/BuildUtils.cmake",
+			"src/arrow/CMakeLists.txt",
+			"cmake_modules/SetupCxxFlags.cmake",
+			"CMakeLists.txt",
+			"cmake_modules/ThirdpartyToolchain.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 419,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 192,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 196,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 490,
+				"parent" : 0
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 399,
+				"parent" : 5
+			},
+			{
+				"file" : 2,
+				"parent" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 326,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 785,
+				"parent" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 786,
+				"parent" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 492,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 357,
+				"parent" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 227,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 490,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 491,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 494,
+				"parent" : 5
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 458,
+				"parent" : 5
+			},
+			{
+				"file" : 4,
+				"parent" : 17
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 179,
+				"parent" : 18
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 1342,
+				"parent" : 18
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 2214,
+				"parent" : 18
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -Wno-noexcept-type  -fdiagnostics-color=always -ggdb -O0  -Wall -Wno-conversion -Wno-sign-conversion -Wno-unused-variable -Werror -msse4.2  -g -fPIC -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu++11"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARROW_EXPORTING"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "ARROW_HAVE_SSE4_2"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "ARROW_JEMALLOC"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "ARROW_JEMALLOC_INCLUDE_DIR="
+				},
+				{
+					"backtrace" : 11,
+					"define" : "ARROW_WITH_BACKTRACE"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "ARROW_WITH_TIMING_TESTS"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "URI_STATIC_BUILD"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 14,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/cmake-build-debug/src"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/src"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/src/generated"
+				},
+				{
+					"backtrace" : 19,
+					"isSystem" : true,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/thirdparty/flatbuffers/include"
+				},
+				{
+					"backtrace" : 20,
+					"isSystem" : true,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/cmake-build-debug/jemalloc_ep-prefix/src"
+				},
+				{
+					"backtrace" : 21,
+					"isSystem" : true,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/thirdparty/hadoop/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -ggdb -O0   -Wall -Wno-conversion -Wno-sign-conversion -Wno-unused-variable -Werror -msse4.2 -g -fPIC -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARROW_EXPORTING"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "ARROW_HAVE_SSE4_2"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "ARROW_JEMALLOC"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "ARROW_JEMALLOC_INCLUDE_DIR="
+				},
+				{
+					"backtrace" : 11,
+					"define" : "ARROW_WITH_BACKTRACE"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "ARROW_WITH_TIMING_TESTS"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "URI_STATIC_BUILD"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 14,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/cmake-build-debug/src"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/src"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/src/generated"
+				},
+				{
+					"backtrace" : 19,
+					"isSystem" : true,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/thirdparty/flatbuffers/include"
+				},
+				{
+					"backtrace" : 20,
+					"isSystem" : true,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/cmake-build-debug/jemalloc_ep-prefix/src"
+				},
+				{
+					"backtrace" : 21,
+					"isSystem" : true,
+					"path" : "/home/jeff/github/gottingen/titan-arrow/thirdparty/hadoop/include"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "arrow_dependencies::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "arrow_objlib::@35c394f4173f4822a3b1",
+	"name" : "arrow_objlib",
+	"paths" : 
+	{
+		"build" : "src/arrow",
+		"source" : "src/arrow"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/builder.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/builder_adaptive.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/builder_base.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/builder_binary.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/builder_decimal.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/builder_dict.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/builder_nested.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/builder_primitive.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/builder_union.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/concatenate.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/dict_internal.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/diff.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/array/validate.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/buffer.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/compare.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/device.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/extension_type.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/memory_pool.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/pretty_print.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/record_batch.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/result.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/scalar.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/sparse_tensor.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/status.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/table.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/table_builder.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/tensor.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/tensor/coo_converter.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/tensor/csc_converter.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/tensor/csf_converter.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/tensor/csr_converter.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/type.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/visitor.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/c/bridge.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/io/buffered.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/io/caching.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/io/compressed.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/io/file.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/io/hdfs.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/io/hdfs_internal.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/io/interfaces.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/io/memory.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/io/slow.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/testing/util.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/basic_decimal.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/bit_util.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/compression.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/cpu_info.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/decimal.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/delimiting.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/formatting.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/future.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/int_util.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/io_util.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/iterator.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/logging.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/key_value_metadata.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/memory.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/parsing.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/string.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/string_builder.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/task_group.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/thread_pool.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/time.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/trie.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/uri.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/util/utf8.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/vendored/base64.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/vendored/datetime/tz.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/vendored/double-conversion/bignum.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/vendored/double-conversion/double-conversion.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/vendored/double-conversion/bignum-dtoa.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/vendored/double-conversion/fast-dtoa.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/vendored/double-conversion/cached-powers.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/vendored/double-conversion/fixed-dtoa.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/vendored/double-conversion/diy-fp.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/vendored/double-conversion/strtod.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/ipc/dictionary.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/ipc/feather.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/ipc/message.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/ipc/metadata_internal.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/ipc/options.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/ipc/reader.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/arrow/ipc/writer.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriCommon.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriCompare.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriEscape.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriFile.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriIp4Base.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriIp4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriMemory.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriNormalizeBase.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriNormalize.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriParseBase.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriParse.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriQuery.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriRecompose.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriResolve.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "src/arrow/vendored/uriparser/UriShorten.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

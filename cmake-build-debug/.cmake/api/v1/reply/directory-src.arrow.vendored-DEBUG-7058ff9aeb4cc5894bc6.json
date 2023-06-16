@@ -1,0 +1,55 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"arrow_install_all_headers"
+		],
+		"files" : 
+		[
+			"cmake_modules/BuildUtils.cmake",
+			"src/arrow/vendored/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 815,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/arrow/vendored",
+			"paths" : 
+			[
+				"src/arrow/vendored/datetime.h",
+				"src/arrow/vendored/optional.hpp",
+				"src/arrow/vendored/string_view.hpp",
+				"src/arrow/vendored/variant.hpp",
+				"src/arrow/vendored/xxhash.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/arrow/vendored",
+		"source" : "src/arrow/vendored"
+	}
+}

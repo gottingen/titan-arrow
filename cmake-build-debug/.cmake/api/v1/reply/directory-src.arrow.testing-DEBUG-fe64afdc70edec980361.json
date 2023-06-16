@@ -1,0 +1,58 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"arrow_install_all_headers"
+		],
+		"files" : 
+		[
+			"cmake_modules/BuildUtils.cmake",
+			"src/arrow/testing/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 815,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/arrow/testing",
+			"paths" : 
+			[
+				"src/arrow/testing/extension_type.h",
+				"src/arrow/testing/generator.h",
+				"src/arrow/testing/gtest_common.h",
+				"src/arrow/testing/gtest_compat.h",
+				"src/arrow/testing/gtest_util.h",
+				"src/arrow/testing/pch.h",
+				"src/arrow/testing/random.h",
+				"src/arrow/testing/util.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/arrow/testing",
+		"source" : "src/arrow/testing"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"src/arrow/ipc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "arrow_ipc::@4393315973b38196e352",
+	"name" : "arrow_ipc",
+	"paths" : 
+	{
+		"build" : "src/arrow/ipc",
+		"source" : "src/arrow/ipc"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

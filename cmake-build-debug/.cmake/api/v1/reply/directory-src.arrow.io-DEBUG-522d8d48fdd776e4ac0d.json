@@ -1,0 +1,63 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"arrow_install_all_headers"
+		],
+		"files" : 
+		[
+			"cmake_modules/BuildUtils.cmake",
+			"src/arrow/io/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 815,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/arrow/io",
+			"paths" : 
+			[
+				"src/arrow/io/api.h",
+				"src/arrow/io/buffered.h",
+				"src/arrow/io/caching.h",
+				"src/arrow/io/compressed.h",
+				"src/arrow/io/concurrency.h",
+				"src/arrow/io/file.h",
+				"src/arrow/io/hdfs.h",
+				"src/arrow/io/interfaces.h",
+				"src/arrow/io/memory.h",
+				"src/arrow/io/mman.h",
+				"src/arrow/io/slow.h",
+				"src/arrow/io/test_common.h",
+				"src/arrow/io/type_fwd.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/arrow/io",
+		"source" : "src/arrow/io"
+	}
+}

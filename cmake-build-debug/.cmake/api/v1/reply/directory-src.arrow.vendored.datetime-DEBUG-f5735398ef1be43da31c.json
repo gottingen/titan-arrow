@@ -1,0 +1,55 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"arrow_install_all_headers"
+		],
+		"files" : 
+		[
+			"cmake_modules/BuildUtils.cmake",
+			"src/arrow/vendored/datetime/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 815,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/arrow/vendored/datetime",
+			"paths" : 
+			[
+				"src/arrow/vendored/datetime/date.h",
+				"src/arrow/vendored/datetime/ios.h",
+				"src/arrow/vendored/datetime/tz.h",
+				"src/arrow/vendored/datetime/tz_private.h",
+				"src/arrow/vendored/datetime/visibility.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/arrow/vendored/datetime",
+		"source" : "src/arrow/vendored/datetime"
+	}
+}

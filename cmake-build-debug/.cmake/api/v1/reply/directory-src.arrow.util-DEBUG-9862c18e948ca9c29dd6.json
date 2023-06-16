@@ -1,0 +1,108 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"arrow_install_all_headers"
+		],
+		"files" : 
+		[
+			"cmake_modules/BuildUtils.cmake",
+			"src/arrow/util/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 815,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/arrow/util",
+			"paths" : 
+			[
+				"src/arrow/util/align_util.h",
+				"src/arrow/util/atomic_shared_ptr.h",
+				"src/arrow/util/base64.h",
+				"src/arrow/util/basic_decimal.h",
+				"src/arrow/util/bit_stream_utils.h",
+				"src/arrow/util/bit_util.h",
+				"src/arrow/util/bpacking.h",
+				"src/arrow/util/bpacking_avx512_generated.h",
+				"src/arrow/util/bpacking_default.h",
+				"src/arrow/util/byte_stream_split.h",
+				"src/arrow/util/checked_cast.h",
+				"src/arrow/util/compare.h",
+				"src/arrow/util/compiler_util.h",
+				"src/arrow/util/compression.h",
+				"src/arrow/util/cpu_info.h",
+				"src/arrow/util/decimal.h",
+				"src/arrow/util/delimiting.h",
+				"src/arrow/util/double_conversion.h",
+				"src/arrow/util/formatting.h",
+				"src/arrow/util/functional.h",
+				"src/arrow/util/future.h",
+				"src/arrow/util/future_iterator.h",
+				"src/arrow/util/hash_util.h",
+				"src/arrow/util/hashing.h",
+				"src/arrow/util/int_util.h",
+				"src/arrow/util/io_util.h",
+				"src/arrow/util/iterator.h",
+				"src/arrow/util/key_value_metadata.h",
+				"src/arrow/util/logging.h",
+				"src/arrow/util/macros.h",
+				"src/arrow/util/make_unique.h",
+				"src/arrow/util/memory.h",
+				"src/arrow/util/neon_util.h",
+				"src/arrow/util/optional.h",
+				"src/arrow/util/parallel.h",
+				"src/arrow/util/parsing.h",
+				"src/arrow/util/print.h",
+				"src/arrow/util/range.h",
+				"src/arrow/util/rle_encoding.h",
+				"src/arrow/util/sort.h",
+				"src/arrow/util/sse_util.h",
+				"src/arrow/util/stopwatch.h",
+				"src/arrow/util/string.h",
+				"src/arrow/util/string_builder.h",
+				"src/arrow/util/string_view.h",
+				"src/arrow/util/task_group.h",
+				"src/arrow/util/thread_pool.h",
+				"src/arrow/util/time.h",
+				"src/arrow/util/trie.h",
+				"src/arrow/util/type_traits.h",
+				"src/arrow/util/ubsan.h",
+				"src/arrow/util/uri.h",
+				"src/arrow/util/utf8.h",
+				"src/arrow/util/variant.h",
+				"src/arrow/util/vector.h",
+				"src/arrow/util/visibility.h",
+				"src/arrow/util/windows_compatibility.h",
+				"src/arrow/util/windows_fixup.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/arrow/util",
+		"source" : "src/arrow/util"
+	}
+}

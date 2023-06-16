@@ -1,0 +1,60 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"arrow_install_all_headers"
+		],
+		"files" : 
+		[
+			"cmake_modules/BuildUtils.cmake",
+			"src/arrow/vendored/double-conversion/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 815,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/arrow/vendored/double-conversion",
+			"paths" : 
+			[
+				"src/arrow/vendored/double-conversion/bignum-dtoa.h",
+				"src/arrow/vendored/double-conversion/bignum.h",
+				"src/arrow/vendored/double-conversion/cached-powers.h",
+				"src/arrow/vendored/double-conversion/diy-fp.h",
+				"src/arrow/vendored/double-conversion/double-conversion.h",
+				"src/arrow/vendored/double-conversion/fast-dtoa.h",
+				"src/arrow/vendored/double-conversion/fixed-dtoa.h",
+				"src/arrow/vendored/double-conversion/ieee.h",
+				"src/arrow/vendored/double-conversion/strtod.h",
+				"src/arrow/vendored/double-conversion/utils.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/arrow/vendored/double-conversion",
+		"source" : "src/arrow/vendored/double-conversion"
+	}
+}

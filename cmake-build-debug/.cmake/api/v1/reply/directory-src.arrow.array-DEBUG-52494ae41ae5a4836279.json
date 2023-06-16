@@ -1,0 +1,62 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"arrow_install_all_headers"
+		],
+		"files" : 
+		[
+			"cmake_modules/BuildUtils.cmake",
+			"src/arrow/array/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 26,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 815,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/arrow/array",
+			"paths" : 
+			[
+				"src/arrow/array/builder_adaptive.h",
+				"src/arrow/array/builder_base.h",
+				"src/arrow/array/builder_binary.h",
+				"src/arrow/array/builder_decimal.h",
+				"src/arrow/array/builder_dict.h",
+				"src/arrow/array/builder_nested.h",
+				"src/arrow/array/builder_primitive.h",
+				"src/arrow/array/builder_time.h",
+				"src/arrow/array/builder_union.h",
+				"src/arrow/array/concatenate.h",
+				"src/arrow/array/diff.h",
+				"src/arrow/array/validate.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/arrow/array",
+		"source" : "src/arrow/array"
+	}
+}

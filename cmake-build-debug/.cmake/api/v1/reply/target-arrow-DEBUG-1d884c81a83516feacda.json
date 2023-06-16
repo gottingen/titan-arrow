@@ -1,0 +1,57 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"src/arrow/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 445,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "arrow_objlib::@35c394f4173f4822a3b1"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "arrow_shared::@35c394f4173f4822a3b1"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "arrow_static::@35c394f4173f4822a3b1"
+		}
+	],
+	"id" : "arrow::@35c394f4173f4822a3b1",
+	"name" : "arrow",
+	"paths" : 
+	{
+		"build" : "src/arrow",
+		"source" : "src/arrow"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

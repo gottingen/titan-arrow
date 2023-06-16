@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/snap/clion/237/bin/cmake/linux/x64/bin/cmake;-P;/home/jeff/github/gottingen/titan-arrow/cmake-build-debug/jemalloc_ep-prefix/src/jemalloc_ep-stamp/download-jemalloc_ep.cmake;COMMAND;/snap/clion/237/bin/cmake/linux/x64/bin/cmake;-P;/home/jeff/github/gottingen/titan-arrow/cmake-build-debug/jemalloc_ep-prefix/src/jemalloc_ep-stamp/verify-jemalloc_ep.cmake;COMMAND;/snap/clion/237/bin/cmake/linux/x64/bin/cmake;-P;/home/jeff/github/gottingen/titan-arrow/cmake-build-debug/jemalloc_ep-prefix/src/jemalloc_ep-stamp/extract-jemalloc_ep.cmake
+source_dir=/home/jeff/github/gottingen/titan-arrow/cmake-build-debug/jemalloc_ep-prefix/src/jemalloc_ep
+work_dir=/home/jeff/github/gottingen/titan-arrow/cmake-build-debug/jemalloc_ep-prefix/src
+url(s)=https://github.com/jemalloc/jemalloc/releases/download/5.2.1/jemalloc-5.2.1.tar.bz2;https://github.com/ursa-labs/thirdparty/releases/download/latest/jemalloc-5.2.1.tar.bz2
+hash=
+no_extract=
+

@@ -401,9 +401,6 @@ if(ARROW_JSON)
               json/reader.cc)
 endif()
 
-if(ARROW_ORC)
-  list(APPEND ARROW_SRCS adapters/orc/adapter.cc adapters/orc/adapter_util.cc)
-endif()
 
 if(NOT APPLE AND NOT MSVC)
   # Localize thirdparty symbols using a linker version script. This hides them
@@ -607,9 +604,6 @@ if(ARROW_JSON)
   add_subdirectory(json)
 endif()
 
-if(ARROW_ORC)
-  add_subdirectory(adapters/orc)
-endif()
 
 if(ARROW_PYTHON)
   add_subdirectory(python)

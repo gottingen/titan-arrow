@@ -58,8 +58,6 @@
 			"destination" : "share/doc/arrow",
 			"paths" : 
 			[
-				"../LICENSE.txt",
-				"../NOTICE.txt",
 				"README.md"
 			],
 			"type" : "file"

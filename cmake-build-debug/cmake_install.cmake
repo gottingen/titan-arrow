@@ -47,11 +47,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/doc/arrow" TYPE FILE FILES
-    "/home/jeff/github/gottingen/titan-arrow/../LICENSE.txt"
-    "/home/jeff/github/gottingen/titan-arrow/../NOTICE.txt"
-    "/home/jeff/github/gottingen/titan-arrow/README.md"
-    )
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/doc/arrow" TYPE FILE FILES "/home/jeff/github/gottingen/titan-arrow/README.md")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)

@@ -1,33 +1,13 @@
 /snap/clion/237/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/237/bin/ninja/linux/x64/ninja -G Ninja -S /home/jeff/github/gottingen/titan-arrow -B /home/jeff/github/gottingen/titan-arrow/cmake-build-debug
 -- Building using CMake version: 3.25.2
--- The C compiler identification is GNU 9.4.0
--- The CXX compiler identification is GNU 9.4.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: /usr/bin/cc - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: /usr/bin/c++ - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
 -- Arrow version: 0.17.1 (full: '0.17.1')
 -- Arrow SO version: 17 (full: 17.1.0)
--- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
 -- clang-tidy not found
 -- clang-format not found
 -- Could NOT find ClangTools (missing: CLANG_FORMAT_BIN CLANG_TIDY_BIN) 
 -- infer not found
--- Found Python3: /usr/bin/python3.8 (found version "3.8.10") found components: Interpreter 
 -- Found cpplint executable at /home/jeff/github/gottingen/titan-arrow/build-support/cpplint.py
 -- System processor: x86_64
--- Performing Test CXX_SUPPORTS_SSE4_2
--- Performing Test CXX_SUPPORTS_SSE4_2 - Success
--- Performing Test CXX_SUPPORTS_AVX2
--- Performing Test CXX_SUPPORTS_AVX2 - Success
--- Performing Test CXX_SUPPORTS_AVX512
--- Performing Test CXX_SUPPORTS_AVX512 - Success
 -- Arrow build warning level: CHECKIN
 Using ld linker
 Configured for DEBUG build (set with cmake -DCMAKE_BUILD_TYPE={release,debug,...})
@@ -55,11 +35,6 @@ Configured for DEBUG build (set with cmake -DCMAKE_BUILD_TYPE={release,debug,...
 -- ARROW_THRIFT_BUILD_MD5_CHECKSUM: 3deebbb4d1ca77dd9c9e009a1ea02183
 -- ARROW_ZLIB_BUILD_VERSION: 1.2.11
 -- ARROW_ZSTD_BUILD_VERSION: v1.4.3
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
--- Check if compiler accepts -pthread
--- Check if compiler accepts -pthread - yes
--- Found Threads: TRUE  
 -- Building without OpenSSL support. Minimum OpenSSL version 1.0.2 required.
 -- Building (vendored) jemalloc from source
 CMake Warning (dev) at /snap/clion/237/bin/cmake/linux/x64/share/cmake-3.25/Modules/ExternalProject.cmake:3075 (message):
@@ -81,10 +56,6 @@ This warning is for project developers.  Use -Wno-dev to suppress it.
 -- Found hdfs.h at: /home/jeff/github/gottingen/titan-arrow/thirdparty/hadoop/include/hdfs.h
 -- CMAKE_C_FLAGS:  -ggdb -O0   -Wall -Wno-conversion -Wno-sign-conversion -Wno-unused-variable -Werror -msse4.2
 -- CMAKE_CXX_FLAGS:  -Wno-noexcept-type  -fdiagnostics-color=always -ggdb -O0  -Wall -Wno-conversion -Wno-sign-conversion -Wno-unused-variable -Werror -msse4.2 
--- Looking for backtrace
--- Looking for backtrace - found
--- backtrace facility detected in default set of libraries
--- Found Backtrace: /usr/include  
 -- ---------------------------------------------------------------------
 -- Arrow version:                                 0.17.1
 -- 

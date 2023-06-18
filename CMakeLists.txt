@@ -322,23 +322,6 @@ if(ARROW_PYTHON)
   set(ARROW_JSON ON)
 endif()
 
-if(MSVC)
-  # ORC doesn't build on windows
-  set(ARROW_ORC OFF)
-  # Plasma using glog is not fully tested on windows.
-  set(ARROW_USE_GLOG OFF)
-endif()
-
-if(ARROW_JNI)
-  set(ARROW_BUILD_STATIC ON)
-endif()
-
-if(ARROW_ORC)
-  set(ARROW_WITH_LZ4 ON)
-  set(ARROW_WITH_SNAPPY ON)
-  set(ARROW_WITH_ZLIB ON)
-  set(ARROW_WITH_ZSTD ON)
-endif()
 
 if(NOT ARROW_BUILD_TESTS)
   set(NO_TESTS 1)
@@ -675,12 +658,6 @@ if(ARROW_WITH_ZSTD)
   list(APPEND ARROW_STATIC_INSTALL_INTERFACE_LIBS ZSTD::zstd)
 endif()
 
-if(ARROW_ORC)
-  list(APPEND ARROW_LINK_LIBS orc::liborc ${ARROW_PROTOBUF_LIBPROTOBUF})
-  list(APPEND ARROW_STATIC_LINK_LIBS orc::liborc ${ARROW_PROTOBUF_LIBPROTOBUF})
-  list(APPEND ARROW_STATIC_INSTALL_INTERFACE_LIBS orc::liborc
-              ${ARROW_PROTOBUF_LIBPROTOBUF})
-endif()
 
 if(ARROW_USE_GLOG)
   list(APPEND ARROW_LINK_LIBS glog::glog)
@@ -826,10 +803,6 @@ if(ARROW_PARQUET)
   if(PARQUET_BUILD_EXAMPLES)
     add_subdirectory(examples/parquet)
   endif()
-endif()
-
-if(ARROW_JNI)
-  add_subdirectory(src/jni)
 endif()
 
 if(ARROW_GANDIVA)
